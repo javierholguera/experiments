@@ -26,14 +26,5 @@ hs_err_pid*
 *.iml
 /.idea/
 .gradle/
-underwriting-document-generator-api/build/
-underwriting-document-generator-api/out/
-
-underwriting-document-generator-application/build/
-underwriting-document-generator-application/out/
-
-underwriting-document-generator-storage-client/build/
-underwriting-document-generator-storage-client/out/
-
-underwriting-document-generator-transaction-receiver/build/
-underwriting-document-generator-transaction-receiver/out/
+**/build/
+**/out/
